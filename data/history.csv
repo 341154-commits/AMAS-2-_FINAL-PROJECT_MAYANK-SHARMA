@@ -1,0 +1,266 @@
+rfq_id,rfq_name,item,quantity,max_lead_days,required_cert,vendor,price_per_unit,freight_total,defect_rate_pct,on_time_pct,lead_time_days,payment_terms_days,moq,monthly_capacity,certifications,years_with_us,notes,actual_defect_pct,delivered_on_time
+P001,Past order 1,FTL trip Pune to Delhi,26,3,,Vendor 1-A,60729.75,13794,3.4,94,1,30,2,39,,8,,3.81,1
+P001,Past order 1,FTL trip Pune to Delhi,26,3,,Vendor 1-B,58089.48,11677,5.0,84,7,60,2,20,,2,,2.86,1
+P001,Past order 1,FTL trip Pune to Delhi,26,3,,Vendor 1-C,58234.76,12088,3.9,85,6,30,2,31,,0,,5.52,1
+P001,Past order 1,FTL trip Pune to Delhi,26,3,,Vendor 1-D,58396.59,23031,2.3,83,3,15,6,39,,2,,1.7,1
+P001,Past order 1,FTL trip Pune to Delhi,26,3,,Vendor 1-E,58486.91,29022,2.4,91,6,45,6,20,,8,,2.35,1
+P002,Past order 2,FTL trip Pune to Delhi,37,3,,Vendor 2-A,57824.29,40930,3.8,75,3,45,18,55,,2,,1.8,0
+P002,Past order 2,FTL trip Pune to Delhi,37,3,,Vendor 2-B,61348.74,44661,2.2,89,2,45,18,55,,8,,1.96,1
+P002,Past order 2,FTL trip Pune to Delhi,37,3,,Vendor 2-C,60216.69,13753,1.9,96,2,45,9,44,,0,,2.9,1
+P002,Past order 2,FTL trip Pune to Delhi,37,3,,Vendor 2-D,60160.95,38719,0.6,98,4,60,3,29,,5,,0.56,1
+P002,Past order 2,FTL trip Pune to Delhi,37,3,,Vendor 2-E,61624.46,16505,0.2,86,7,60,9,44,,5,,0.24,1
+P003,Past order 3,Pallet wrap film (kg),10763,14,,Vendor 3-A,148.33,11491,2.0,86,10,30,5381,26907,,3,,1.96,1
+P003,Past order 3,Pallet wrap film (kg),10763,14,,Vendor 3-B,141.7,23516,2.5,77,14,15,2690,16144,,8,,1.69,0
+P003,Past order 3,Pallet wrap film (kg),10763,14,,Vendor 3-C,144.79,29895,3.7,81,14,30,5381,8610,,3,,6.25,1
+P003,Past order 3,Pallet wrap film (kg),10763,14,,Vendor 3-D,147.49,26930,2.7,81,9,45,5381,16144,,2,,2.39,1
+P004,Past order 4,Pallet wrap film (kg),7560,14,,Vendor 4-A,143.03,8629,4.7,85,9,60,1890,6048,,8,,4.19,0
+P004,Past order 4,Pallet wrap film (kg),7560,14,,Vendor 4-B,146.69,10580,3.3,85,12,45,3780,6048,,5,,5.67,0
+P004,Past order 4,Pallet wrap film (kg),7560,14,,Vendor 4-C,147.18,6262,0.9,85,11,30,756,6048,,0,,0.95,1
+P004,Past order 4,Pallet wrap film (kg),7560,14,,Vendor 4-D,144.75,16347,1.0,97,5,30,756,11340,,0,,1.89,1
+P005,Past order 5,Corrugated shipper box,141804,22,ISO 9001,Vendor 5-A,17.06,15537,1.0,78,20,45,70902,212706,,8,,0.92,1
+P005,Past order 5,Corrugated shipper box,141804,22,ISO 9001,Vendor 5-B,16.2,24675,0.9,84,19,30,14180,113443,ISO 9001,8,,0.94,1
+P005,Past order 5,Corrugated shipper box,141804,22,ISO 9001,Vendor 5-C,16.21,42224,0.2,77,18,60,35451,170164,ISO 9001,5,,0.22,1
+P005,Past order 5,Corrugated shipper box,141804,22,ISO 9001,Vendor 5-D,17.48,48868,3.0,84,19,45,35451,113443,ISO 9001,2,,5.55,1
+P005,Past order 5,Corrugated shipper box,141804,22,ISO 9001,Vendor 5-E,15.93,21226,2.8,82,24,30,35451,113443,ISO 9001,1,,1.54,1
+P006,Past order 6,FTL trip Pune to Delhi,26,3,,Vendor 6-A,61650.79,31878,0.2,86,5,15,2,31,,8,,0.24,1
+P006,Past order 6,FTL trip Pune to Delhi,26,3,,Vendor 6-B,60545.14,10999,1.6,91,1,45,13,65,,1,,1.21,1
+P006,Past order 6,FTL trip Pune to Delhi,26,3,,Vendor 6-C,60218.84,22677,4.5,95,4,60,6,65,,5,,4.06,1
+P006,Past order 6,FTL trip Pune to Delhi,26,3,,Vendor 6-D,59022.95,14265,4.6,80,7,60,6,31,,5,,8.91,1
+P006,Past order 6,FTL trip Pune to Delhi,26,3,,Vendor 6-E,59988.87,26792,2.7,88,1,30,6,20,,0,,4.31,1
+P006,Past order 6,FTL trip Pune to Delhi,26,3,,Vendor 6-F,59198.65,18932,1.1,97,1,15,2,20,,8,,1.05,1
+P007,Past order 7,Laminate pouch,558334,30,FSSAI,Vendor 7-A,2.15,17890,0.2,79,31,15,139583,446667,FSSAI,0,,0.26,1
+P007,Past order 7,Laminate pouch,558334,30,FSSAI,Vendor 7-B,1.82,12543,5.6,95,30,45,55833,670000,FSSAI,0,,9.49,1
+P007,Past order 7,Laminate pouch,558334,30,FSSAI,Vendor 7-C,1.9,6310,4.1,91,23,45,139583,670000,FSSAI,0,,13.31,1
+P007,Past order 7,Laminate pouch,558334,30,FSSAI,Vendor 7-D,1.84,15430,3.8,92,21,15,279167,1395835,FSSAI,8,,5.51,1
+P007,Past order 7,Laminate pouch,558334,30,FSSAI,Vendor 7-E,2.15,17977,1.2,82,33,30,55833,1395835,FSSAI,2,,0.99,0
+P007,Past order 7,Laminate pouch,558334,30,FSSAI,Vendor 7-F,2.1,12164,0.8,96,24,60,139583,446667,FSSAI,0,,1.92,1
+P008,Past order 8,FTL trip Pune to Delhi,25,3,,Vendor 8-A,58494.44,21817,1.3,76,3,15,6,62,,2,,0.91,0
+P008,Past order 8,FTL trip Pune to Delhi,25,3,,Vendor 8-B,59657.5,11015,4.6,89,3,60,6,30,,1,,4.5,1
+P008,Past order 8,FTL trip Pune to Delhi,25,3,,Vendor 8-C,58375.38,8000,2.1,81,7,45,6,20,,3,,1.78,1
+P008,Past order 8,FTL trip Pune to Delhi,25,3,,Vendor 8-D,61674.23,30689,0.2,86,1,30,12,20,,5,,0.16,1
+P009,Past order 9,FTL trip Pune to Delhi,25,3,,Vendor 9-A,59348.41,23717,2.5,97,6,60,2,30,,3,,2.02,1
+P009,Past order 9,FTL trip Pune to Delhi,25,3,,Vendor 9-B,60700.19,20071,3.3,97,7,45,2,20,,0,,7.89,1
+P009,Past order 9,FTL trip Pune to Delhi,25,3,,Vendor 9-C,62091.53,17013,3.8,86,1,15,6,62,,0,,4.8,1
+P010,Past order 10,Pallet wrap film (kg),7313,14,,Vendor 10-A,147.84,20438,4.4,79,16,15,731,8775,,0,,8.79,1
+P010,Past order 10,Pallet wrap film (kg),7313,14,,Vendor 10-B,146.81,17738,0.6,92,12,30,3656,5850,,3,,0.57,1
+P010,Past order 10,Pallet wrap film (kg),7313,14,,Vendor 10-C,149.73,6914,1.2,85,16,45,1828,10969,,8,,0.99,1
+P011,Past order 11,Laminate pouch,316347,30,FSSAI,Vendor 11-A,1.96,9616,2.0,77,20,30,79086,474520,,2,,2.13,1
+P011,Past order 11,Laminate pouch,316347,30,FSSAI,Vendor 11-B,2.13,11048,1.1,82,29,15,79086,379616,FSSAI,0,,2.74,1
+P011,Past order 11,Laminate pouch,316347,30,FSSAI,Vendor 11-C,1.77,7519,6.0,75,25,15,79086,379616,FSSAI,5,,5.72,0
+P012,Past order 12,Pallet wrap film (kg),9385,14,,Vendor 12-A,145.83,26330,0.7,93,13,15,938,23462,,0,,0.89,0
+P012,Past order 12,Pallet wrap film (kg),9385,14,,Vendor 12-B,137.93,8323,3.1,83,12,30,4692,11262,,0,,7.48,0
+P012,Past order 12,Pallet wrap film (kg),9385,14,,Vendor 12-C,143.98,18841,4.0,85,6,60,938,11262,,2,,3.34,1
+P012,Past order 12,Pallet wrap film (kg),9385,14,,Vendor 12-D,137.77,24094,3.6,86,7,60,4692,14077,,3,,4.14,1
+P012,Past order 12,Pallet wrap film (kg),9385,14,,Vendor 12-E,149.66,23567,2.0,80,9,45,938,7508,,2,,1.57,1
+P013,Past order 13,FTL trip Pune to Delhi,31,3,,Vendor 13-A,59431.55,16990,1.3,80,2,45,7,77,,0,,1.56,0
+P013,Past order 13,FTL trip Pune to Delhi,31,3,,Vendor 13-B,58555.11,25983,3.4,77,7,60,3,46,,8,,3.86,1
+P013,Past order 13,FTL trip Pune to Delhi,31,3,,Vendor 13-C,59437.62,36365,0.8,82,7,15,15,37,,5,,0.76,1
+P013,Past order 13,FTL trip Pune to Delhi,31,3,,Vendor 13-D,57696.76,9676,3.2,97,7,45,15,77,,8,,3.93,1
+P013,Past order 13,FTL trip Pune to Delhi,31,3,,Vendor 13-E,62060.16,36520,4.2,75,5,30,7,24,,1,,3.49,0
+P014,Past order 14,Corrugated shipper box,130103,22,ISO 9001,Vendor 14-A,15.61,30790,5.4,90,17,60,32525,104082,ISO 9001,2,,7.43,1
+P014,Past order 14,Corrugated shipper box,130103,22,ISO 9001,Vendor 14-B,15.2,33535,4.6,98,13,30,13010,325257,ISO 9001,3,,3.27,1
+P014,Past order 14,Corrugated shipper box,130103,22,ISO 9001,Vendor 14-C,16.4,18054,3.0,88,19,30,32525,325257,ISO 9001,0,,6.5,1
+P014,Past order 14,Corrugated shipper box,130103,22,ISO 9001,Vendor 14-D,15.75,27562,4.8,83,18,30,32525,104082,ISO 9001,3,,3.56,1
+P014,Past order 14,Corrugated shipper box,130103,22,ISO 9001,Vendor 14-E,17.45,17800,0.2,77,19,60,13010,325257,ISO 9001,5,,0.13,1
+P014,Past order 14,Corrugated shipper box,130103,22,ISO 9001,Vendor 14-F,14.7,31310,3.0,79,23,45,13010,104082,ISO 9001,0,,3.13,1
+P015,Past order 15,Corrugated shipper box,125526,22,ISO 9001,Vendor 15-A,17.56,26429,0.2,95,12,15,62763,188289,ISO 9001,1,,0.25,1
+P015,Past order 15,Corrugated shipper box,125526,22,ISO 9001,Vendor 15-B,17.42,26645,0.9,97,17,30,31381,313815,ISO 9001,0,,1.96,1
+P015,Past order 15,Corrugated shipper box,125526,22,ISO 9001,Vendor 15-C,14.68,10962,5.1,93,18,15,12552,313815,,2,,3.43,0
+P015,Past order 15,Corrugated shipper box,125526,22,ISO 9001,Vendor 15-D,15.27,25149,4.4,77,18,30,12552,313815,ISO 9001,1,,2.77,0
+P015,Past order 15,Corrugated shipper box,125526,22,ISO 9001,Vendor 15-E,14.85,11513,2.3,94,15,30,31381,100420,ISO 9001,8,,5.47,1
+P016,Past order 16,Corrugated shipper box,205391,22,ISO 9001,Vendor 16-A,16.87,51681,0.2,79,21,15,20539,164312,ISO 9001,3,,0.2,0
+P016,Past order 16,Corrugated shipper box,205391,22,ISO 9001,Vendor 16-B,17.04,57201,1.1,95,26,45,20539,308086,ISO 9001,5,,1.64,0
+P016,Past order 16,Corrugated shipper box,205391,22,ISO 9001,Vendor 16-C,15.58,33444,4.8,77,12,15,20539,513477,ISO 9001,2,,4.44,1
+P016,Past order 16,Corrugated shipper box,205391,22,ISO 9001,Vendor 16-D,17.23,66541,0.7,96,21,15,20539,246469,ISO 9001,5,,0.75,1
+P016,Past order 16,Corrugated shipper box,205391,22,ISO 9001,Vendor 16-E,15.59,62839,2.2,92,23,15,51347,164312,ISO 9001,0,,4.81,1
+P016,Past order 16,Corrugated shipper box,205391,22,ISO 9001,Vendor 16-F,15.93,43124,2.3,83,23,60,20539,246469,ISO 9001,2,,1.6,1
+P017,Past order 17,Corrugated shipper box,105854,22,ISO 9001,Vendor 17-A,15.16,24687,2.5,91,26,45,10585,158781,ISO 9001,2,,1.38,1
+P017,Past order 17,Corrugated shipper box,105854,22,ISO 9001,Vendor 17-B,15.59,31759,3.9,96,18,45,10585,84683,ISO 9001,0,,7.48,0
+P017,Past order 17,Corrugated shipper box,105854,22,ISO 9001,Vendor 17-C,15.64,28881,4.2,87,14,60,26463,84683,ISO 9001,0,,10.88,1
+P017,Past order 17,Corrugated shipper box,105854,22,ISO 9001,Vendor 17-D,14.54,16334,4.8,88,17,45,26463,264635,ISO 9001,3,,5.66,0
+P018,Past order 18,Corrugated shipper box,132521,22,ISO 9001,Vendor 18-A,16.93,42017,0.4,79,25,30,66260,159025,ISO 9001,5,,0.54,0
+P018,Past order 18,Corrugated shipper box,132521,22,ISO 9001,Vendor 18-B,15.86,30988,2.3,78,12,60,13252,331302,ISO 9001,5,,3.1,1
+P018,Past order 18,Corrugated shipper box,132521,22,ISO 9001,Vendor 18-C,16.12,29641,2.3,88,12,15,66260,331302,ISO 9001,3,,3.43,1
+P019,Past order 19,FTL trip Pune to Delhi,39,3,,Vendor 19-A,59544.66,42224,3.8,81,3,60,9,97,,5,,3.07,1
+P019,Past order 19,FTL trip Pune to Delhi,39,3,,Vendor 19-B,59110.21,45893,3.8,97,6,60,9,97,,0,,7.74,1
+P019,Past order 19,FTL trip Pune to Delhi,39,3,,Vendor 19-C,58415.03,11974,1.9,96,4,45,19,97,,0,,3.49,1
+P020,Past order 20,FTL trip Pune to Delhi,32,3,,Vendor 20-A,60250.89,15311,1.5,79,4,45,16,48,,3,,1.21,1
+P020,Past order 20,FTL trip Pune to Delhi,32,3,,Vendor 20-B,62189.83,35155,2.6,90,5,30,3,80,,2,,2.33,1
+P020,Past order 20,FTL trip Pune to Delhi,32,3,,Vendor 20-C,58851.25,11236,3.8,92,6,45,8,80,,0,,6.3,1
+P020,Past order 20,FTL trip Pune to Delhi,32,3,,Vendor 20-D,57789.02,11235,1.5,77,4,15,16,48,,0,,4.29,1
+P021,Past order 21,Corrugated shipper box,176571,22,ISO 9001,Vendor 21-A,14.73,16270,6.0,86,22,60,44142,141256,ISO 9001,1,,7.2,1
+P021,Past order 21,Corrugated shipper box,176571,22,ISO 9001,Vendor 21-B,14.53,20214,4.3,94,26,15,17657,264856,ISO 9001,3,,2.27,1
+P021,Past order 21,Corrugated shipper box,176571,22,ISO 9001,Vendor 21-C,17.34,49485,0.9,85,16,60,44142,441427,ISO 9001,5,,0.98,1
+P021,Past order 21,Corrugated shipper box,176571,22,ISO 9001,Vendor 21-D,15.86,40994,1.1,89,23,60,44142,441427,,3,,1.05,1
+P021,Past order 21,Corrugated shipper box,176571,22,ISO 9001,Vendor 21-E,15.35,35608,4.9,86,20,15,17657,141256,ISO 9001,0,,16.41,1
+P022,Past order 22,FTL trip Pune to Delhi,31,3,,Vendor 22-A,58953.94,20653,4.7,96,4,45,3,46,,8,,2.09,1
+P022,Past order 22,FTL trip Pune to Delhi,31,3,,Vendor 22-B,57757.58,20165,2.1,97,3,60,15,77,,5,,2.08,1
+P022,Past order 22,FTL trip Pune to Delhi,31,3,,Vendor 22-C,59173.66,25046,4.9,87,6,15,15,77,,1,,8.4,1
+P022,Past order 22,FTL trip Pune to Delhi,31,3,,Vendor 22-D,58691.37,22942,3.0,84,6,60,15,24,,8,,3.56,1
+P022,Past order 22,FTL trip Pune to Delhi,31,3,,Vendor 22-E,60698.87,11298,2.2,95,5,45,7,46,,2,,3.02,1
+P022,Past order 22,FTL trip Pune to Delhi,31,3,,Vendor 22-F,60464.41,11103,3.6,84,3,15,3,77,,0,,8.56,1
+P023,Past order 23,Corrugated shipper box,153671,22,ISO 9001,Vendor 23-A,17.25,16219,0.2,79,24,60,76835,184405,ISO 9001,8,,0.31,1
+P023,Past order 23,Corrugated shipper box,153671,22,ISO 9001,Vendor 23-B,14.61,14230,6.0,80,15,60,15367,122936,ISO 9001,2,,5.39,1
+P023,Past order 23,Corrugated shipper box,153671,22,ISO 9001,Vendor 23-C,15.65,18803,1.7,95,14,60,38417,184405,ISO 9001,1,,2.04,1
+P023,Past order 23,Corrugated shipper box,153671,22,ISO 9001,Vendor 23-D,15.04,14748,2.9,87,15,60,38417,384177,ISO 9001,0,,10.48,1
+P024,Past order 24,Laminate pouch,371689,30,FSSAI,Vendor 24-A,1.85,4415,5.1,93,29,60,92922,446026,FSSAI,5,,5.78,1
+P024,Past order 24,Laminate pouch,371689,30,FSSAI,Vendor 24-B,1.96,7207,0.9,78,34,15,92922,446026,FSSAI,0,,3.3,0
+P024,Past order 24,Laminate pouch,371689,30,FSSAI,Vendor 24-C,2.19,8090,1.9,84,28,60,37168,929222,FSSAI,0,,2.46,0
+P024,Past order 24,Laminate pouch,371689,30,FSSAI,Vendor 24-D,1.99,9069,5.0,75,21,45,37168,297351,FSSAI,2,,3.09,0
+P024,Past order 24,Laminate pouch,371689,30,FSSAI,Vendor 24-E,2.13,9743,0.2,83,34,60,37168,929222,FSSAI,2,,0.4,1
+P025,Past order 25,Pallet wrap film (kg),7158,14,,Vendor 25-A,141.28,19181,1.3,91,8,60,715,8589,,3,,1.13,1
+P025,Past order 25,Pallet wrap film (kg),7158,14,,Vendor 25-B,152.08,10750,2.3,85,17,60,1789,5726,,1,,3.25,1
+P025,Past order 25,Pallet wrap film (kg),7158,14,,Vendor 25-C,151.25,12882,3.9,91,18,45,3579,5726,,5,,6.53,1
+P025,Past order 25,Pallet wrap film (kg),7158,14,,Vendor 25-D,143.74,7058,3.0,95,5,60,1789,5726,,8,,1.53,1
+P025,Past order 25,Pallet wrap film (kg),7158,14,,Vendor 25-E,151.38,15003,3.1,85,15,15,715,5726,,1,,2.28,1
+P025,Past order 25,Pallet wrap film (kg),7158,14,,Vendor 25-F,147.27,10523,3.0,82,15,60,1789,17895,,1,,1.79,1
+P026,Past order 26,Corrugated shipper box,123625,22,ISO 9001,Vendor 26-A,15.8,21543,4.5,77,19,45,12362,148350,ISO 9001,1,,3.48,1
+P026,Past order 26,Corrugated shipper box,123625,22,ISO 9001,Vendor 26-B,14.98,13581,4.2,83,26,60,12362,185437,ISO 9001,5,,4.93,1
+P026,Past order 26,Corrugated shipper box,123625,22,ISO 9001,Vendor 26-C,15.18,34744,5.2,90,24,45,12362,185437,ISO 9001,0,,9.35,1
+P026,Past order 26,Corrugated shipper box,123625,22,ISO 9001,Vendor 26-D,14.55,10224,3.0,96,15,45,30906,148350,ISO 9001,1,,3.0,1
+P026,Past order 26,Corrugated shipper box,123625,22,ISO 9001,Vendor 26-E,15.01,11096,1.8,78,13,45,30906,185437,ISO 9001,0,,4.94,1
+P026,Past order 26,Corrugated shipper box,123625,22,ISO 9001,Vendor 26-F,14.96,17701,3.0,77,25,30,12362,148350,ISO 9001,8,,3.89,1
+P027,Past order 27,FTL trip Pune to Delhi,23,3,,Vendor 27-A,58307.32,6838,4.2,75,6,15,11,34,,0,,6.56,1
+P027,Past order 27,FTL trip Pune to Delhi,23,3,,Vendor 27-B,60644.79,19204,2.1,82,2,15,11,34,,3,,1.82,1
+P027,Past order 27,FTL trip Pune to Delhi,23,3,,Vendor 27-C,60789.06,11321,1.2,80,2,15,11,57,,0,,2.32,0
+P027,Past order 27,FTL trip Pune to Delhi,23,3,,Vendor 27-D,60915.93,18464,4.1,89,1,45,11,57,,0,,5.41,1
+P027,Past order 27,FTL trip Pune to Delhi,23,3,,Vendor 27-E,57666.16,14171,5.8,75,7,60,11,34,,3,,4.57,0
+P027,Past order 27,FTL trip Pune to Delhi,23,3,,Vendor 27-F,60628.64,26078,1.2,88,2,45,11,18,,0,,3.13,0
+P028,Past order 28,Laminate pouch,355579,30,FSSAI,Vendor 28-A,1.79,3381,4.4,96,23,45,88894,888947,FSSAI,1,,3.29,1
+P028,Past order 28,Laminate pouch,355579,30,FSSAI,Vendor 28-B,1.82,8453,4.5,86,32,60,177789,284463,FSSAI,0,,11.6,1
+P028,Past order 28,Laminate pouch,355579,30,FSSAI,Vendor 28-C,2.09,11185,2.6,83,34,60,177789,426694,FSSAI,8,,2.11,1
+P028,Past order 28,Laminate pouch,355579,30,FSSAI,Vendor 28-D,2.13,11992,2.0,76,32,60,88894,888947,FSSAI,8,,1.45,1
+P029,Past order 29,FTL trip Pune to Delhi,26,3,,Vendor 29-A,58304.57,22376,4.3,80,1,30,2,65,,1,,2.86,1
+P029,Past order 29,FTL trip Pune to Delhi,26,3,,Vendor 29-B,62200.57,31036,2.6,91,7,15,6,65,,5,,1.65,0
+P029,Past order 29,FTL trip Pune to Delhi,26,3,,Vendor 29-C,61227.67,20192,4.6,87,7,45,2,39,,3,,4.06,1
+P029,Past order 29,FTL trip Pune to Delhi,26,3,,Vendor 29-D,58513.69,26135,3.2,76,2,60,13,20,,0,,8.22,1
+P030,Past order 30,FTL trip Pune to Delhi,31,3,,Vendor 30-A,59346.3,35193,2.2,81,3,30,7,24,,0,,2.91,0
+P030,Past order 30,FTL trip Pune to Delhi,31,3,,Vendor 30-B,60151.32,33509,2.9,81,1,60,7,37,,5,,3.15,1
+P030,Past order 30,FTL trip Pune to Delhi,31,3,,Vendor 30-C,59164.75,19708,5.0,80,1,45,15,77,,3,,3.58,1
+P030,Past order 30,FTL trip Pune to Delhi,31,3,,Vendor 30-D,59107.06,26421,1.2,77,3,45,7,24,,5,,1.25,1
+P030,Past order 30,FTL trip Pune to Delhi,31,3,,Vendor 30-E,59776.5,16056,2.5,87,4,15,3,37,,2,,2.45,1
+P030,Past order 30,FTL trip Pune to Delhi,31,3,,Vendor 30-F,60113.43,19568,5.0,89,2,15,3,24,,5,,6.87,1
+P031,Past order 31,FTL trip Pune to Delhi,29,3,,Vendor 31-A,61907.77,22118,2.0,88,3,15,7,23,,5,,2.78,1
+P031,Past order 31,FTL trip Pune to Delhi,29,3,,Vendor 31-B,58998.36,32589,4.8,88,6,30,2,34,,3,,5.49,0
+P031,Past order 31,FTL trip Pune to Delhi,29,3,,Vendor 31-C,58321.66,19343,3.4,95,2,60,14,72,,2,,2.56,1
+P032,Past order 32,FTL trip Pune to Delhi,37,3,,Vendor 32-A,59917.06,21821,4.8,95,3,30,3,55,,2,,6.68,0
+P032,Past order 32,FTL trip Pune to Delhi,37,3,,Vendor 32-B,60868.3,17044,3.2,96,2,60,18,92,,5,,2.09,1
+P032,Past order 32,FTL trip Pune to Delhi,37,3,,Vendor 32-C,61613.37,42760,2.7,85,3,15,3,44,,1,,2.2,1
+P032,Past order 32,FTL trip Pune to Delhi,37,3,,Vendor 32-D,61861.61,24142,1.8,87,4,15,18,29,,5,,2.02,0
+P033,Past order 33,Pallet wrap film (kg),10931,14,,Vendor 33-A,149.91,30178,0.5,83,18,15,2732,16396,,1,,0.42,1
+P033,Past order 33,Pallet wrap film (kg),10931,14,,Vendor 33-B,151.75,12423,0.2,86,7,60,2732,16396,,0,,0.26,0
+P033,Past order 33,Pallet wrap film (kg),10931,14,,Vendor 33-C,149.2,11993,2.7,89,4,45,5465,16396,,5,,3.16,1
+P033,Past order 33,Pallet wrap film (kg),10931,14,,Vendor 33-D,147.49,30008,0.3,76,15,30,5465,13117,,8,,0.26,1
+P034,Past order 34,FTL trip Pune to Delhi,41,3,,Vendor 34-A,59496.49,48651,3.8,80,4,60,10,61,,1,,2.27,1
+P034,Past order 34,FTL trip Pune to Delhi,41,3,,Vendor 34-B,60756.27,22248,1.7,97,1,15,4,32,,1,,1.63,1
+P034,Past order 34,FTL trip Pune to Delhi,41,3,,Vendor 34-C,58112.33,13223,2.9,90,5,45,10,61,,3,,2.63,1
+P034,Past order 34,FTL trip Pune to Delhi,41,3,,Vendor 34-D,61382.93,39379,3.8,98,4,30,20,32,,0,,7.53,0
+P034,Past order 34,FTL trip Pune to Delhi,41,3,,Vendor 34-E,60453.6,46178,1.6,89,4,15,10,32,,1,,1.05,1
+P035,Past order 35,Corrugated shipper box,166985,22,ISO 9001,Vendor 35-A,16.26,18034,2.9,90,14,60,83492,250477,,3,,4.67,1
+P035,Past order 35,Corrugated shipper box,166985,22,ISO 9001,Vendor 35-B,14.84,13623,5.8,75,24,15,41746,200382,,3,,10.46,1
+P035,Past order 35,Corrugated shipper box,166985,22,ISO 9001,Vendor 35-C,15.97,43382,3.6,90,22,60,16698,133588,,3,,4.77,1
+P035,Past order 35,Corrugated shipper box,166985,22,ISO 9001,Vendor 35-D,15.02,24889,5.6,95,22,60,16698,250477,ISO 9001,5,,8.31,1
+P036,Past order 36,Corrugated shipper box,118094,22,ISO 9001,Vendor 36-A,14.63,24157,5.2,87,15,30,11809,177141,ISO 9001,0,,7.43,1
+P036,Past order 36,Corrugated shipper box,118094,22,ISO 9001,Vendor 36-B,15.64,25928,2.8,94,12,30,29523,141712,ISO 9001,5,,3.9,1
+P036,Past order 36,Corrugated shipper box,118094,22,ISO 9001,Vendor 36-C,15.99,34099,3.5,93,14,15,59047,94475,ISO 9001,0,,6.25,1
+P037,Past order 37,FTL trip Pune to Delhi,27,3,,Vendor 37-A,61603.88,17703,0.5,95,1,15,2,32,,8,,0.79,1
+P037,Past order 37,FTL trip Pune to Delhi,27,3,,Vendor 37-B,62250.31,13267,1.1,80,2,30,2,67,,2,,1.21,1
+P037,Past order 37,FTL trip Pune to Delhi,27,3,,Vendor 37-C,58911.41,20968,3.0,91,4,30,2,67,,5,,3.22,1
+P038,Past order 38,PET jar 500 ml,98598,25,FSSAI,Vendor 38-A,7.31,5410,2.4,98,18,45,9859,118317,,5,,2.77,1
+P038,Past order 38,PET jar 500 ml,98598,25,FSSAI,Vendor 38-B,7.91,13822,1.9,98,18,60,9859,246495,FSSAI,3,,1.74,1
+P038,Past order 38,PET jar 500 ml,98598,25,FSSAI,Vendor 38-C,7.32,8126,2.2,92,20,15,49299,78878,FSSAI,0,,3.79,1
+P039,Past order 39,FTL trip Pune to Delhi,41,3,,Vendor 39-A,59978.75,23640,4.1,86,6,60,4,102,,1,,7.39,1
+P039,Past order 39,FTL trip Pune to Delhi,41,3,,Vendor 39-B,57949.61,21031,5.5,76,1,45,4,61,,1,,3.15,1
+P039,Past order 39,FTL trip Pune to Delhi,41,3,,Vendor 39-C,57980.24,31745,5.6,77,5,45,20,61,,0,,9.28,0
+P040,Past order 40,Pallet wrap film (kg),6261,14,,Vendor 40-A,141.3,7952,5.4,85,6,60,1565,15652,,2,,3.34,1
+P040,Past order 40,Pallet wrap film (kg),6261,14,,Vendor 40-B,141.78,9658,5.1,89,5,60,626,9391,,8,,4.22,1
+P040,Past order 40,Pallet wrap film (kg),6261,14,,Vendor 40-C,145.15,9070,0.6,90,6,30,3130,15652,,0,,0.61,1
+P040,Past order 40,Pallet wrap film (kg),6261,14,,Vendor 40-D,139.2,15954,1.3,79,6,45,626,7513,,3,,1.67,1
+P040,Past order 40,Pallet wrap film (kg),6261,14,,Vendor 40-E,147.62,7936,4.3,78,6,60,3130,5008,,0,,5.83,1
+P041,Past order 41,Laminate pouch,328703,30,FSSAI,Vendor 41-A,2.24,14701,0.2,93,29,15,32870,821757,FSSAI,3,,0.11,1
+P041,Past order 41,Laminate pouch,328703,30,FSSAI,Vendor 41-B,2.25,13975,0.2,77,27,60,32870,394443,FSSAI,8,,0.25,1
+P041,Past order 41,Laminate pouch,328703,30,FSSAI,Vendor 41-C,1.82,7145,5.5,97,23,60,82175,821757,FSSAI,1,,2.6,1
+P041,Past order 41,Laminate pouch,328703,30,FSSAI,Vendor 41-D,1.98,6620,2.8,82,34,15,82175,821757,FSSAI,8,,1.44,1
+P041,Past order 41,Laminate pouch,328703,30,FSSAI,Vendor 41-E,2.07,7401,2.3,95,22,45,82175,394443,,0,,5.65,1
+P042,Past order 42,Laminate pouch,417651,30,FSSAI,Vendor 42-A,2.17,9388,1.7,85,25,45,41765,334120,FSSAI,1,,1.27,1
+P042,Past order 42,Laminate pouch,417651,30,FSSAI,Vendor 42-B,2.19,9183,1.6,88,32,30,104412,1044127,,8,,1.4,0
+P042,Past order 42,Laminate pouch,417651,30,FSSAI,Vendor 42-C,2.24,16058,0.7,97,31,45,104412,334120,FSSAI,0,,1.32,1
+P043,Past order 43,PET jar 500 ml,152907,25,FSSAI,Vendor 43-A,7.76,12025,3.7,85,17,45,38226,122325,FSSAI,0,,11.05,0
+P043,Past order 43,PET jar 500 ml,152907,25,FSSAI,Vendor 43-B,6.86,14637,6.0,77,21,60,76453,229360,FSSAI,1,,6.32,1
+P043,Past order 43,PET jar 500 ml,152907,25,FSSAI,Vendor 43-C,7.92,12368,1.2,96,15,30,15290,122325,FSSAI,1,,0.87,1
+P043,Past order 43,PET jar 500 ml,152907,25,FSSAI,Vendor 43-D,7.58,7984,3.8,93,29,45,15290,183488,FSSAI,0,,8.86,1
+P043,Past order 43,PET jar 500 ml,152907,25,FSSAI,Vendor 43-E,7.6,22472,1.0,96,17,30,15290,183488,,5,,1.5,1
+P044,Past order 44,FTL trip Pune to Delhi,38,3,,Vendor 44-A,60181.14,17683,2.7,96,5,45,9,95,,3,,2.56,1
+P044,Past order 44,FTL trip Pune to Delhi,38,3,,Vendor 44-B,59944.09,18134,3.3,89,4,45,3,45,,0,,11.01,1
+P044,Past order 44,FTL trip Pune to Delhi,38,3,,Vendor 44-C,61602.95,34367,1.0,94,6,45,19,95,,8,,0.94,1
+P044,Past order 44,FTL trip Pune to Delhi,38,3,,Vendor 44-D,60614.38,27383,2.2,81,2,60,19,30,,0,,6.67,0
+P044,Past order 44,FTL trip Pune to Delhi,38,3,,Vendor 44-E,60880.93,33602,0.5,97,4,30,9,95,,8,,0.56,1
+P045,Past order 45,Pallet wrap film (kg),6450,14,,Vendor 45-A,141.81,5889,3.6,75,12,45,1612,9675,,5,,4.29,1
+P045,Past order 45,Pallet wrap film (kg),6450,14,,Vendor 45-B,151.61,15999,0.2,78,4,15,645,5160,,5,,0.14,0
+P045,Past order 45,Pallet wrap film (kg),6450,14,,Vendor 45-C,139.5,11824,5.3,85,4,15,1612,9675,,1,,4.86,1
+P045,Past order 45,Pallet wrap film (kg),6450,14,,Vendor 45-D,151.12,12888,3.4,92,16,45,645,16125,,5,,2.72,1
+P045,Past order 45,Pallet wrap film (kg),6450,14,,Vendor 45-E,144.72,18334,3.3,80,15,45,3225,9675,,0,,4.86,1
+P045,Past order 45,Pallet wrap film (kg),6450,14,,Vendor 45-F,148.81,9139,1.4,89,18,60,1612,16125,,8,,1.76,1
+P046,Past order 46,FTL trip Pune to Delhi,35,3,,Vendor 46-A,60876.92,31058,2.8,81,2,60,17,87,,8,,2.4,1
+P046,Past order 46,FTL trip Pune to Delhi,35,3,,Vendor 46-B,59809.55,35778,0.7,78,3,30,3,42,,1,,1.63,0
+P046,Past order 46,FTL trip Pune to Delhi,35,3,,Vendor 46-C,58510.26,16672,1.6,93,2,45,17,28,,8,,1.41,1
+P046,Past order 46,FTL trip Pune to Delhi,35,3,,Vendor 46-D,60260.26,37781,3.0,87,3,15,17,87,,3,,3.14,1
+P046,Past order 46,FTL trip Pune to Delhi,35,3,,Vendor 46-E,57961.46,32883,2.1,97,7,30,3,87,,0,,5.04,1
+P046,Past order 46,FTL trip Pune to Delhi,35,3,,Vendor 46-F,61589.58,27562,2.4,80,5,60,17,42,,0,,4.06,0
+P047,Past order 47,PET jar 500 ml,151124,25,FSSAI,Vendor 47-A,7.86,18121,0.4,79,18,45,15112,181348,FSSAI,0,,0.67,1
+P047,Past order 47,PET jar 500 ml,151124,25,FSSAI,Vendor 47-B,8.13,23598,1.3,97,26,15,75562,377810,FSSAI,3,,1.17,1
+P047,Past order 47,PET jar 500 ml,151124,25,FSSAI,Vendor 47-C,7.36,9980,4.7,92,19,45,75562,377810,FSSAI,3,,2.34,1
+P048,Past order 48,Corrugated shipper box,119552,22,ISO 9001,Vendor 48-A,14.49,30368,3.1,78,12,45,11955,179328,ISO 9001,0,,7.08,0
+P048,Past order 48,Corrugated shipper box,119552,22,ISO 9001,Vendor 48-B,16.71,39446,3.5,97,20,45,29888,298880,ISO 9001,0,,3.8,1
+P048,Past order 48,Corrugated shipper box,119552,22,ISO 9001,Vendor 48-C,14.7,16176,6.0,88,18,15,59776,298880,,0,,8.32,1
+P048,Past order 48,Corrugated shipper box,119552,22,ISO 9001,Vendor 48-D,14.94,29648,3.5,86,16,45,11955,95641,ISO 9001,0,,7.84,1
+P048,Past order 48,Corrugated shipper box,119552,22,ISO 9001,Vendor 48-E,16.92,21182,0.9,83,15,15,59776,298880,ISO 9001,0,,1.65,1
+P049,Past order 49,PET jar 500 ml,163387,25,FSSAI,Vendor 49-A,6.87,6502,3.8,78,27,60,40846,130709,FSSAI,0,,8.83,0
+P049,Past order 49,PET jar 500 ml,163387,25,FSSAI,Vendor 49-B,8.05,20727,0.2,93,16,30,40846,245080,,3,,0.32,1
+P049,Past order 49,PET jar 500 ml,163387,25,FSSAI,Vendor 49-C,7.49,15889,2.7,81,26,45,81693,196064,FSSAI,0,,4.63,1
+P050,Past order 50,Corrugated shipper box,130179,22,ISO 9001,Vendor 50-A,15.36,36792,2.6,77,16,15,13017,104143,ISO 9001,3,,2.68,1
+P050,Past order 50,Corrugated shipper box,130179,22,ISO 9001,Vendor 50-B,15.72,39384,4.8,77,18,15,65089,195268,ISO 9001,8,,8.71,1
+P050,Past order 50,Corrugated shipper box,130179,22,ISO 9001,Vendor 50-C,16.04,30054,1.2,97,21,45,32544,195268,ISO 9001,5,,1.32,1
+P050,Past order 50,Corrugated shipper box,130179,22,ISO 9001,Vendor 50-D,15.19,33507,3.9,85,16,15,13017,195268,ISO 9001,3,,3.02,1
+P051,Past order 51,PET jar 500 ml,96027,25,FSSAI,Vendor 51-A,7.59,13363,1.5,89,21,30,9602,144040,,5,,0.81,1
+P051,Past order 51,PET jar 500 ml,96027,25,FSSAI,Vendor 51-B,7.41,13644,4.8,86,18,30,48013,240067,FSSAI,5,,3.13,1
+P051,Past order 51,PET jar 500 ml,96027,25,FSSAI,Vendor 51-C,7.96,5317,0.2,77,25,15,48013,115232,FSSAI,8,,0.23,1
+P051,Past order 51,PET jar 500 ml,96027,25,FSSAI,Vendor 51-D,7.11,9984,2.6,91,20,30,24006,144040,FSSAI,1,,2.51,1
+P052,Past order 52,Pallet wrap film (kg),6655,14,,Vendor 52-A,144.62,15057,4.8,88,11,60,1663,9982,,5,,3.75,1
+P052,Past order 52,Pallet wrap film (kg),6655,14,,Vendor 52-B,141.08,4892,4.8,88,13,15,3327,5324,,5,,4.39,1
+P052,Past order 52,Pallet wrap film (kg),6655,14,,Vendor 52-C,150.5,17416,2.8,89,5,15,665,9982,,2,,4.79,1
+P053,Past order 53,PET jar 500 ml,160903,25,FSSAI,Vendor 53-A,7.93,22394,0.2,95,18,30,80451,128722,FSSAI,0,,0.32,1
+P053,Past order 53,PET jar 500 ml,160903,25,FSSAI,Vendor 53-B,7.57,18298,1.9,98,19,45,16090,193083,FSSAI,3,,1.69,1
+P053,Past order 53,PET jar 500 ml,160903,25,FSSAI,Vendor 53-C,7.69,24298,2.6,87,23,30,40225,241354,FSSAI,0,,3.97,1
+P053,Past order 53,PET jar 500 ml,160903,25,FSSAI,Vendor 53-D,6.99,19005,6.0,75,22,15,16090,128722,FSSAI,3,,10.05,1
+P053,Past order 53,PET jar 500 ml,160903,25,FSSAI,Vendor 53-E,8.03,19927,3.3,79,16,45,80451,402257,FSSAI,8,,3.83,1
+P054,Past order 54,FTL trip Pune to Delhi,29,3,,Vendor 54-A,61061.19,20992,3.1,95,4,30,2,72,,3,,3.48,1
+P054,Past order 54,FTL trip Pune to Delhi,29,3,,Vendor 54-B,60558.02,12719,1.5,86,2,30,2,72,,0,,1.81,0
+P054,Past order 54,FTL trip Pune to Delhi,29,3,,Vendor 54-C,57928.49,20340,2.5,92,6,60,14,34,,0,,4.95,0
+P055,Past order 55,Laminate pouch,321834,30,FSSAI,Vendor 55-A,1.77,10368,5.5,92,23,15,160917,804585,FSSAI,5,,4.8,1
+P055,Past order 55,Laminate pouch,321834,30,FSSAI,Vendor 55-B,2.02,12232,1.2,96,33,45,32183,804585,FSSAI,1,,0.92,1
+P055,Past order 55,Laminate pouch,321834,30,FSSAI,Vendor 55-C,2.05,11648,3.6,97,34,45,80458,257467,FSSAI,3,,6.2,1
+P055,Past order 55,Laminate pouch,321834,30,FSSAI,Vendor 55-D,2.05,3389,0.4,88,26,60,160917,482751,FSSAI,1,,0.3,1
+P055,Past order 55,Laminate pouch,321834,30,FSSAI,Vendor 55-E,1.82,10974,5.4,93,26,15,32183,482751,FSSAI,1,,4.16,1
+P056,Past order 56,PET jar 500 ml,92990,25,FSSAI,Vendor 56-A,6.87,4562,5.2,98,23,15,23247,111588,FSSAI,1,,9.45,1
+P056,Past order 56,PET jar 500 ml,92990,25,FSSAI,Vendor 56-B,7.66,13068,3.4,79,15,15,23247,74392,FSSAI,1,,8.82,0
+P056,Past order 56,PET jar 500 ml,92990,25,FSSAI,Vendor 56-C,7.18,5333,2.8,94,29,15,9299,74392,FSSAI,8,,2.3,1
+P057,Past order 57,Pallet wrap film (kg),6460,14,,Vendor 57-A,149.41,12135,1.0,75,16,15,646,16150,,8,,1.44,0
+P057,Past order 57,Pallet wrap film (kg),6460,14,,Vendor 57-B,151.59,5517,1.5,76,17,45,1615,5168,,0,,1.46,1
+P057,Past order 57,Pallet wrap film (kg),6460,14,,Vendor 57-C,144.18,17315,1.1,95,6,15,1615,9690,,1,,1.36,1
+P057,Past order 57,Pallet wrap film (kg),6460,14,,Vendor 57-D,145.86,7194,3.6,78,16,45,3230,16150,,0,,9.18,0
+P057,Past order 57,Pallet wrap film (kg),6460,14,,Vendor 57-E,150.49,13338,0.2,85,15,30,3230,5168,,5,,0.24,1
+P057,Past order 57,Pallet wrap film (kg),6460,14,,Vendor 57-F,150.16,7810,2.9,83,7,45,3230,5168,,1,,3.17,1
+P058,Past order 58,PET jar 500 ml,99726,25,FSSAI,Vendor 58-A,8.14,10281,0.2,76,19,45,9972,249315,,0,,0.25,1
+P058,Past order 58,PET jar 500 ml,99726,25,FSSAI,Vendor 58-B,7.96,11200,1.4,84,15,60,9972,149589,FSSAI,8,,1.56,1
+P058,Past order 58,PET jar 500 ml,99726,25,FSSAI,Vendor 58-C,8.03,15796,2.9,88,17,45,49863,249315,FSSAI,5,,1.59,1
+P059,Past order 59,Laminate pouch,489732,30,FSSAI,Vendor 59-A,2.17,8560,0.2,89,29,60,122433,391785,FSSAI,0,,0.3,1
+P059,Past order 59,Laminate pouch,489732,30,FSSAI,Vendor 59-B,2.16,16160,0.5,78,23,45,122433,734598,,3,,0.8,1
+P059,Past order 59,Laminate pouch,489732,30,FSSAI,Vendor 59-C,2.12,18832,0.4,83,23,60,244866,1224330,FSSAI,0,,0.76,1
+P059,Past order 59,Laminate pouch,489732,30,FSSAI,Vendor 59-D,2.05,10726,0.7,97,22,45,244866,587678,,2,,0.83,1
+P059,Past order 59,Laminate pouch,489732,30,FSSAI,Vendor 59-E,1.84,16884,4.7,92,30,15,244866,587678,FSSAI,3,,4.1,1
+P059,Past order 59,Laminate pouch,489732,30,FSSAI,Vendor 59-F,1.95,15334,1.1,95,25,15,48973,587678,FSSAI,0,,2.21,0
+P060,Past order 60,Pallet wrap film (kg),8602,14,,Vendor 60-A,147.59,23302,4.5,80,18,15,4301,6881,,5,,3.81,1
+P060,Past order 60,Pallet wrap film (kg),8602,14,,Vendor 60-B,145.67,12798,3.2,83,10,60,2150,6881,,5,,2.65,1
+P060,Past order 60,Pallet wrap film (kg),8602,14,,Vendor 60-C,150.48,10457,2.9,79,8,30,4301,10322,,5,,3.86,1
+P060,Past order 60,Pallet wrap film (kg),8602,14,,Vendor 60-D,151.08,12017,0.5,77,17,15,4301,21505,,8,,0.55,1
